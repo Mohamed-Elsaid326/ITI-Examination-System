@@ -1,0 +1,6 @@
+Id,Fname,Lname,Phone,BirthDate,City,Street,Email,Class_Id
+1,Khalid,Kareem,1012345678,2001-01-01,Cairo,Street not provided,Khalid.Kareem@example.com,1
+2,Khalid,Mohamed,1587654321,2003-01-01,Mahlha,Street not provided,Khalid.Mohamed@example.com,1
+3,Hossam,Jamal,1098765432,1997-01-01,Fayoum,Street not provided,Hossam.Jamal@example.com,1
+4,Nadia,Amir,1287654321,1997-01-01,Cairo,Street not provided,Nadia.Amir@example.com,1
+5,Jamal,Ibrahim,1555555555,2001-01-01,Mahlha,Street not provided,Jamal.Ibrahim@example.com,1

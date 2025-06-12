@@ -1,0 +1,57 @@
+Quest_Id,Choice_Text
+1,a. Object-Oriented Programming
+1,b. Operator Overloading Principle
+1,c. Object Optimization Protocol
+1,d. Object-Oriented Protocol
+2,a. create
+2,b. new
+2,c. object
+2,d. instance
+3,a. Encapsulation
+3,b. Abstraction
+3,c. Inheritance
+3,d. Polymorphism
+4,a. Access private members of another class
+4,b. Acquire the properties and behaviors of another class
+4,c. Override all methods of the base class
+4,d. Hide the implementation details of a class
+5,a. public
+5,b. private
+5,c. internal
+5,d. protected
+6,a. To access the base class constructor
+6,b. To access the base class methods
+6,c. To refer to the current class instance
+6,d. To create a new instance of the base class
+7,a. String
+7,b. Array
+7,c. Struct
+7,d. Class
+8,a. To create an instance of a class
+8,b. To indicate that a method can be overridden in derived classes
+8,c. To define a constant value
+8,d. To allocate memory for an object
+9,a. To define an abstract method
+9,b. Operator Overloading Principle
+9,c. To specify that a class cannot be instantiated
+9,d. Both a and b
+10,TRUE
+10,FALSE
+11,TRUE
+11,FALSE
+12,TRUE
+12,FALSE
+13,TRUE
+13,FALSE
+14,TRUE
+14,FALSE
+15,TRUE
+15,FALSE
+16,TRUE
+16,FALSE
+17,TRUE
+17,FALSE
+18,TRUE
+18,FALSE
+19,TRUE
+19,FALSE
